@@ -2,4 +2,4 @@
 
 Coding Temple
 
-url.codingtemple.com
+url.www.codingtemple.com
