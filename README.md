@@ -1,5 +1,5 @@
 # Python_Functions
 
-Coding Temple
+Author: Coding Temple
 
 url: www.codingtemple.com
